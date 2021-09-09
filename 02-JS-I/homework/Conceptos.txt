@@ -1,0 +1,9 @@
+Variables: como lo dice su nombre, es un contenedor de un tipo de datos que puede cambiar de valor. Por ejemlo, la variable nombre, que podría tener valores como Juan, Pedro, etc
+
+Strings: un string es un tipo de dato conformado por una cadena de caracteres o un bloque de texto, que se coloca entre comillas para indicar precisamente que es un string (a diferencia del tipo de datos Numbers que son eso, números, y que no se ponen entre comillas).
+
+Funciones: una función es una pieza de código que ejecuta una tarea, es una serie o secuencia de ordenes que cumplen con una tarea específica, como hacer un cálculo por ejemplo. Comienza con la palabra function seguido del nombre de la función, que suele describir lo que la función hace. Luego tiene unos paréntesis y finalmente unos corchetes, donde va el código que la función va a ejecutar. Dentro de los paréntesis podemos pasarle argumentos, como por ejemplo una variable que se utilizará en el cálculo. Si incluimos la declaración return dentro de la función, en ese momento la función se detiene y devuelve lo que la función está destinada a hacer o calcular.
+
+Declaraciones if: se utilizan para control de flujos y comparación. Las funciones utilizan las declaraciones if para verificar si algo es cierto o falso, y en función de las respuestas que obtiene a lo largo del flujo va ejecutando o devolviendo distintas cosas. Por ejemplo podría calcular si (if) A es mayor que B, entonces si (if) A = 2 y B = 1, entonces devolvería que sí (true) pero si A = 2 y B = 3 devolvería que no (false).
+
+Booleanos: es un tipo de dato que se utiliza para indicar que algo es verdadero o falso, en lógica binaria, 1 ó 0. Adquiere los valores true o false.
