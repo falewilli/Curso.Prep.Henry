@@ -189,7 +189,7 @@ function mesesDelAño(array) {
   for (var i = 0; i < array.length; i++) {
     if (array[i] === 'Enero' || array[i] === 'Marzo' || array[i] === 'Noviembre') {
       meses.push(array[i]);
-      contador = contador + 1;
+      contador++;
     }
   }
   if (contador === 3) {
