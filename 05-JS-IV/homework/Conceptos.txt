@@ -1,0 +1,9 @@
+Objetos: los objetos son otro tipo de contenedor de datos como lo son los array. Mientras los array contienen elementos que pueden no tener relación unos con otros, los objetos con tienen información que tienen relación con una misma cosa, como por ejemplo podría ser el objeto Persona, que dentro tiene información de la persona como el nombre, el apellido, la edad, su lugar de residencia, etc.
+
+Propiedades: un objeto es una colección de propiedades, entendiéndose éstas como cada par de nombre o key y su valor respectivo. Por ejemplo, en el objeto Persona, nombre = "Juan" ó edad = 25, serían propiedades de Persona. Una propiedad puede ser también una función, que en estos casos se conocen como métodos.
+
+Métodos: las funciones guardadas dentro de un objeto se denominan métodos. Cuando definimos el valor de una key a través de una función, estamos usando un método. Por ejemplo, para calcular la key edad del objeto Persona, podríamos utilizar una función que en base a la fecha de nacimiento de la persona devuelva el valor correspondiente.
+
+Bucle for...in: el bucle for...in se utliza para iterar a través de las propiedades de un objeto (del mismo modo que usammos el bucle for para iterar entre los elementos de un array). Este bucle recorre cada key del objeto y finalizará cuando haya terminado de recorrerlas todas.
+
+Notación de puntos vs notación de corchetes: ambos métodos se utilizan para acceder a las propiedades dentro de un objecto. La notación de puntos es más fácil de leer y más fácil de escribir, y requiere menos código, por lo que debería ser la notación a utilizar por defecto. Sin embargo es literal, ya que los operandos deben ser identificadores legales o válidos. Es decir que si estamos trabajando con identificadores o variables no válidos, deberíamos utilizar corchetes.
