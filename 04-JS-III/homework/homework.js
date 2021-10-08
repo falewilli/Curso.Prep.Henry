@@ -31,7 +31,6 @@ function incrementarPorUno(array) {
   }
   return array;
 }
-incrementarPorUno(2)
 
 
 function agregarItemAlFinalDelArray(array, elemento) {
@@ -259,7 +258,6 @@ function continueStatement(numero) {
   }
   return newArray;
 }
-continueStatement(50)
 
 
 // No modificar nada debajo de esta línea
